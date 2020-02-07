@@ -1,1 +1,1 @@
-# crispy-invention - this reporsitory for project work for certificate
+# crispy-invention - this reporsitory for certificate project work 
